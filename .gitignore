@@ -1,6 +1,8 @@
 node_modules/
 dist/
 examples/
+echo-*
+laravel-echo-server.json
 npm-debug.log
 yarn-error.log
 .idea/

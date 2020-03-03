@@ -1,6 +1,6 @@
 # Laravel Echo Server
 
-NodeJs server for Laravel Echo broadcasting with Socket.io.
+NodeJs server for Laravel Echo broadcasting with Socket.io and multi tenancy support.
 
 ## System Requirements
 
